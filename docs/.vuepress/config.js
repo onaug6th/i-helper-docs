@@ -8,7 +8,7 @@ module.exports = {
   ],
 
   // 基础路径
-  base: '/i-helper/',
+  base: '/i-helper-docs/',
 
   // 输出目录
   dest: 'dist/docs',

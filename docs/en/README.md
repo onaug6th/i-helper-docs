@@ -6,11 +6,11 @@ tagline: a desktop helper.
 actionText: Get Started →
 actionLink: ./guide/
 features:
-- title: Easy to use
-  details: Import, set meta, and good to go.
-- title: Customizable
-  details: Completely customizable on every single route.
-- title: Powered by Vue Router
-  details: Take good advantage of Vue Router.
-footer: MIT Licensed | Copyright (c) 2019-present, 碧海幽虹
+- title: Abundant plug-ins
+  details: Has a rich plug-in store to help liberate productivity plug-ins.
+- title: Rapid development
+  details: Rich and powerful API.
+- title: Powerful performance
+  details: I can't make it up.
+footer: MIT Licensed | Copyright (c) 2019-present, onaug6th
 ---
