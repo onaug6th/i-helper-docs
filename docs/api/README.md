@@ -8,6 +8,10 @@ iHelper往插件的全局对象（window）中，挂载了名为`iHelper`的api�
 
 ## 应用相关
 
+### getUser()
+
+获取当前登录账户信息
+
 ### getWinInfo()
 
 获取当前窗体的信息
