@@ -26,6 +26,12 @@ interface WinInfo {
 }
 ```
 
+### getPluginWinsInfo()
+
+获取插件所有窗体的信息
+
+* 返回：`{Array<PluginWin>} 插件所有窗体的信息`
+
 ### createBrowserWindow(url, options)
 
 创建一个新插件窗体
@@ -79,6 +85,28 @@ iHelper.on('note-add', (...args) => {
   //  do sth...
 });
 ```
+
+### setAlwaysOnTop(alwaysOnTop)
+
+插件窗体置顶
+* 参数：
+1. `{boolean} alwaysOnTop 是否置顶`
+
+### minimize()
+
+插件窗体最小化
+
+### unmaximize()
+
+插件窗体缩放
+
+### maximize()
+
+插件窗体最大化
+
+### hide()
+
+隐藏插件窗体
 
 ### close()
 

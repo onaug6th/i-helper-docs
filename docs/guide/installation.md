@@ -1,11 +1,7 @@
 # 安装
 
-::: warning
-请确保你的 Node.js 版本 >= 8.6，旧的版本可能存在错误。
-:::
+你可以通过以下地址来下载i-helper的安装包。
 
-### NPM
+[下载地址——gitee](https://gitee.com/onaug6th/i-helper/releases)
 
-``` bash
-git clone https://github.com/onaug6th/i-helper
-```
+[下载地址——github](https://github.com/onaug6th/i-helper/releases)

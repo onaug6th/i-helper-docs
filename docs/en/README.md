@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: http://sf3-scmcdn2-tos.pstatp.com/xitu_juejin_web/img/juejin-miner.b78347c.png
+heroImage: https://web-pet-1253668581.cos.ap-chengdu.myqcloud.com/default.png
 heroText: i-helper
 tagline: a desktop helper.
 actionText: Get Started →

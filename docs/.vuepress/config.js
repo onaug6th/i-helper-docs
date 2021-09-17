@@ -4,7 +4,7 @@ const { default: localeEn, theme: localeEnTheme } = require('./locales/en')
 
 module.exports = {
   head: [
-    ['link', { rel: 'icon', href: 'http://sf3-scmcdn2-tos.pstatp.com/xitu_juejin_web/img/juejin-miner.b78347c.png' }]
+    ['link', { rel: 'icon', href: 'https://web-pet-1253668581.cos.ap-chengdu.myqcloud.com/default.png' }]
   ],
 
   // 基础路径
