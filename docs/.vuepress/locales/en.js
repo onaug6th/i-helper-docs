@@ -12,7 +12,7 @@ const i18n = {
 // 站点配置
 exports.default = {
   lang: 'en-US', // 将会被设置为 <html> 的 lang 属性
-  title: 'i-helper',
+  title: 'iHelper',
   description: 'a desktop helper.'
 }
 

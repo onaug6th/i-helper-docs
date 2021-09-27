@@ -12,7 +12,7 @@ const i18n = {
 // 站点配置
 exports.default = {
   lang: 'zh-CN',
-  title: 'i-helper',
+  title: 'iHelper',
   description: '桌面助手'
 }
 

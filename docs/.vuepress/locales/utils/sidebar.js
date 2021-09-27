@@ -6,8 +6,7 @@ exports.default = (i18n) => ({
       title: i18n.essentials,
       collapsable: false,
       children: [
-        'essentials/',
-        'essentials/operate'
+        'essentials/'
       ]
     },
     {

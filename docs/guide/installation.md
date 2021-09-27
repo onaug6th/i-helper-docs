@@ -1,7 +1,7 @@
 # 安装
 
-你可以通过以下地址来下载i-helper的安装包。
+你可以通过以下地址，来下载不同系统使用的iHelper安装包。
 
-[下载地址——gitee](https://gitee.com/onaug6th/i-helper/releases)
+[gitee（国内较快）](https://gitee.com/onaug6th/i-helper/releases)
 
-[下载地址——github](https://github.com/onaug6th/i-helper/releases)
+[github](https://github.com/onaug6th/i-helper/releases)
