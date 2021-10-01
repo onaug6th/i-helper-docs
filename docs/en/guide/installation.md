@@ -1,11 +1,7 @@
-# Installation
+# Install
 
-::: warning
-Please make sure your Node.js version >= 8.6. There might be errors with lower versions.
-:::
+You can download the iHelper installation packages used by different systems through the following address.
 
-### NPM
+[github](https://github.com/onaug6th/i-helper/releases)
 
-``` bash
-git clone https://github.com/onaug6th/i-helper
-```
+[gitee](https://gitee.com/onaug6th/i-helper/releases)

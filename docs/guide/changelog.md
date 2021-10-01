@@ -1,6 +1,5 @@
 # 更新日志
 
+[gitee releases](https://gitee.com/onaug6th/i-helper/releases)
 
-## [0.0.1](https://github.com/onaug6th/i-helper) (2021-07-01)
-
-Hello world.
+[github releases](https://github.com/onaug6th/i-helper/releases)
