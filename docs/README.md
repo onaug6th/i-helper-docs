@@ -2,7 +2,7 @@
 home: true
 heroImage: https://web-pet-1253668581.cos.ap-chengdu.myqcloud.com/default.png
 heroText: iHelper
-tagline: 基于electron开发的插件平台桌面应用
+tagline: 基于electron开发的插件工具箱桌面应用
 actionText: 快速上手 →
 actionLink: ./guide/
 features:
